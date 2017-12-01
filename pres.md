@@ -35,8 +35,8 @@ of exception handling and interfacing with the Amoeba operating system.
 ![Most Popular Languages on GitHub](langpop.png)
 
 # Short Learning Curve
-##[Learn Python in One Video](https://youtu.be/N4mEzFDjqtA)
-##[Basic Python](https://docs.python.org/3/tutorial/)
+## [Learn Python in One Video](https://youtu.be/N4mEzFDjqtA)
+## [Basic Python](https://docs.python.org/3/tutorial/)
 
 # General Purpose Language
 Python is intended to be used as a language for any sort of project.
