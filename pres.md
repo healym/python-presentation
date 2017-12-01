@@ -11,15 +11,43 @@ Python was conceived in the late 1980s, and its implementation began in December
 Netherlands as a successor to the ABC language (itself inspired by SETL) capable
 of exception handling and interfacing with the Amoeba operating system.
 
-[Learn Python in One Video](https://youtu.be/N4mEzFDjqtA)
 
-[Basic Python](https://docs.python.org/3/tutorial/)
 
 # Why Python?
  - Open Source
  - Amazing Community
  - Short Learning Curve
  - General Purpose Language
+
+# Open Source
+> Python is developed under an OSI-approved open source license,
+> making it freely usable and distributable, even for commercial use.
+>    -python.org
+
+>The mission of the Python Software Foundation is to promote, protect, and advance
+>the Python programming language, and to support and facilitate the growth of a
+>diverse and international community of Python programmers.
+>    —from the Mission Statement page
+
+[Source Code](https://goo.gl/AD6UDG)
+
+# Community
+![Most Popular Languages on GitHub](langpop.png)
+
+# Short Learning Curve
+##[Learn Python in One Video](https://youtu.be/N4mEzFDjqtA)
+##[Basic Python](https://docs.python.org/3/tutorial/)
+
+# General Purpose Language
+Python is intended to be used as a language for any sort of project.
+Its design is meant to streamline coding by providing *one* way to do something
+correctly. this reduces ambiguity, and allows for larger and more complex
+projects to be maintainable.
+
+Because of its simple, readable style, Python has taken the world by storm,
+leading to some pretty interesting projects.
+
+[Examples](http://usingpython.com/programs/)
 
 # Libraries for Data Science
  - [Numpy](http://numpy.org)
